@@ -104,7 +104,13 @@ article#primeiro >p{
     padding-left: 60px;  
 
 }
-
+img#bugdroid{
+    width: 300px;
+    padding: auto;
+    margin-left: 300px;
+   
+    
+}
 
 
 iframe{
